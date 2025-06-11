@@ -1,1 +1,1 @@
-"# learning_python" 
+"# learning_python not a serius repo" 
