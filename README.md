@@ -1,4 +1,4 @@
-<!-- # Python Exercises (v3.13)
+# Python Exercises (v3.13)
 
 This repository contains the programming exercises I am completing while learning Python. 
 
@@ -17,4 +17,4 @@ I am currently enhancing my programming skills through these platforms:
 
 ## 🛠️ Stack
 - Python 3.13
-- Visual Studio Code -->
+- Visual Studio Code
