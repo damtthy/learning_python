@@ -4,4 +4,5 @@ nombre = 'incompleto'
 
 saludo_nuevo= '¡HOLA, ' + nombre.title() + saludo_upper
 
-print(saludo_nuevo)
+print(list(saludo_nuevo))
+
